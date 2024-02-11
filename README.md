@@ -9,8 +9,10 @@ Additionally, our work introduces a dataset of 10,000 charts paired with detaile
 
 In our research, we conduct a thorough evaluation of four leading chart summarization models to assess their effectiveness in generating accessible and informative summaries. Importantly, summaries that are accessible for sighted individuals may not automatically be accessible for blind people.
 
- <img src="./teaser.png"  alt="1" width = 950px height = 220px >
- 
+<p align="center">
+ <img src="./teaser.png"  alt="teaser image for AltChart" width = 800px height = 350px >
+</p>
+
 ## Dataset (After the Review Process)
 You can view and download our dataset from  [**HuggingFace 🤗**]()
 
