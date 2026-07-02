@@ -1,8 +1,8 @@
 # AltChart Paper
 
-### Notice: Due to the unavailability of the AltChart dataset and concerns about the training results, this repository is kept for archival purposes only.
+### The AltChart dataset is currently not available. This repository is kept for archival purposes only.
 
-For readers interested in recent progress on **chart summarization**, **accessible chart descriptions**, and **hallucination-aware chart understanding**, we recommend referring to newer work in this area, for example:
+please refer to other recent progress on **chart summarization**, **accessible chart descriptions**, for example:
 
 1. **ChartCap: Mitigating Hallucination of Dense Chart Captioning** (ICCV 2025)  
 2. **ChartInsighter: An Approach for Mitigating Hallucination in Time-series Chart Summary Generation With a Benchmark Dataset** (TVCG / PacificVis 2025)  
